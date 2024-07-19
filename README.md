@@ -1,12 +1,16 @@
 ## Hello world 👋
-
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 I'm Selim Lakehal, a 3rd year software engineering student at Polytechnique Montréal. I'm passionate about most things related to software and its development, and I'm trying to learn as much as possible about it to be a good fit for any profile 😄 !
+<br>
+<br>
+You can reach out to me here:
+<br>
+- Linkedin : https://www.linkedin.com/in/selim-lakehal-ab161b230/
+
 
 # My current Stack
 
 ---
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 <table align="center">
    <!-- First row !-->
@@ -91,10 +95,6 @@ I'm Selim Lakehal, a 3rd year software engineering student at Polytechnique Mont
     </td>
   </tr>        
 </table>
-
-# Contact
-
-You can reach out to me here:
 
 # Stats
 <div align = "center" style="display: flex; flex-direction: row;">      
