@@ -56,7 +56,7 @@ I'm Selim Lakehal, a 3rd year software engineering student at Polytechnique Mont
     <td align="center">
         <div>
           <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-          <p>PostgreSQL</p>
+          <p>Java</p>
         </div>
     </td>
   </tr>        
