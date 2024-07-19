@@ -2,8 +2,6 @@
 
 I'm Selim Lakehal, a 3rd year software engineering student at Polytechnique Montréal. I'm passionate about most things related to software and its development, and I'm trying to learn as much as possible about it to be a good fit for any profile 😄 !
 
-Right now, i'm mostly interested in backend projects!
-
 # My current Stack
 
 ---
@@ -93,3 +91,13 @@ Right now, i'm mostly interested in backend projects!
     </td>
   </tr>        
 </table>
+
+# Contact
+
+You can reach out to me here:
+
+# Stats
+<div align = "center" style="display: flex; flex-direction: row;">      
+<img src = "https://github-readme-stats.vercel.app/api?username=SLakehal27&theme=dark&show_icons=true">
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=SLakehal27">
+</div>
