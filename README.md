@@ -1,8 +1,13 @@
 ## Hello world 👋
-I'm Selim Lakehal, a 3rd year software engineering student at Polytechnique Montréal. I'm passionate about most things related to software and its development, and I'm trying to learn as much as possible about it to be a good fit for any profile 😄 ! 
 
-# My current Stack 
+I'm Selim Lakehal, a 3rd year software engineering student at Polytechnique Montréal. I'm passionate about most things related to software and its development, and I'm trying to learn as much as possible about it to be a good fit for any profile 😄 !
+
+Right now, i'm mostly interested in backend projects!
+
+# My current Stack
+
 ---
+
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 <table align="center">
@@ -57,6 +62,33 @@ I'm Selim Lakehal, a 3rd year software engineering student at Polytechnique Mont
         <div>
           <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
           <p>Java</p>
+        </div>
+    </td>
+  </tr>   
+ <!-- Third row !-->
+<tr>
+    <td align="center">
+        <div>
+          <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          <p>Python</p>
+        </div>
+    </td>
+    <td align="center">
+        <div>
+          <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+          <p>C++</p>
+        </div>
+    </td>
+    <td align="center">
+        <div>
+          <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+          <p>C#</p>
+        </div>
+    </td>
+    <td align="center">
+        <div>
+          <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+          <p>Docker</p>
         </div>
     </td>
   </tr>        
