@@ -1,6 +1,6 @@
 ## Hello world 👋
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-I'm Selim Lakehal, a 3rd year software engineering student at Polytechnique Montréal. I'm passionate about most things related to software and its development, and I'm trying to learn as much as possible about it to be a good fit for any profile 😄 !
+I'm Selim Lakehal, a 4th year software engineering student at Polytechnique Montréal. I'm passionate about most things related to software and its development, and I'm trying to learn as much as possible about it to be a good fit for any profile 😄 !
 <br>
 <br>
 You can reach out to me here:
